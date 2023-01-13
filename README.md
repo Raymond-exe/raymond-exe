@@ -1,8 +1,6 @@
 <h1 align = "center"><b>🍜 Raymond-exe</b></h1>
 
-```
-Hey there, my name is Raymond! I'm a Computer Engineering undergrad student in California, who loves learning new things and sharing any helpful knowledge with others. At the moment, I'm learning about FPGAs!
-```
+<p align="center"><code>Hey there, my name is Raymond! I'm a Computer Engineering undergrad student in California, who loves learning new things and sharing any helpful knowledge with others. At the moment, I'm learning about FPGAs!</code></p>
 
 $~$
 
