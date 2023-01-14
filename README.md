@@ -59,15 +59,12 @@ Progress:
 
 <!-- Git Contributions Streak -->
 <p align="center">
-  <img alt="GitHub Streaks" src="https://streak-stats.demolab.com/?user=Raymond-exe&theme=dark">
+  <img alt="GitHub Streaks" src="https://streak-stats.demolab.com/?user=Raymond-exe&theme=darcula">
 </p>
 
 <!--- Stats & Top Languages -->
-<!-- TODO re-enable once stats are back up -->
-<p align="center">
-  <!-- <img alt="Raymond-exe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raymond-exe&hide=stars&count_private=true&show_icons=true"> -->
-  <!-- <img alt="Raymond-exe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-exe&layout=compact&count_private=true"> -->
-</p>
+| ![img](https://github-readme-stats.vercel.app/api?username=raymond-exe&hide=stars&count_private=true&show_icons=true&theme=darcula) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-exe&layout=compact&count_private=true&theme=darcula) |
+| - | - |
 
 $~$
 
