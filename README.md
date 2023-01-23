@@ -2,7 +2,7 @@
 
 <p align="center">👋 <code>Hey there, my name is Raymond! I'm a Computer Engineering undergrad student in California, who loves learning new skills and sharing knowledge with others. At the moment, I'm learning about FPGAs!</code><br><br><em>My current project is <a href='https://github.com/Raymond-exe/DiscordSpecBot-ts'>a discord bot that can determine if you can run any given game</a>!</em></p>
 
-$~$
+<br>
 
 <!-- ## Programming Languages -->
 <p align="center">Some languages I have experience in are:</p>
@@ -14,7 +14,7 @@ $~$
   <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
-$~$
+<br>
 
 <!-- ## Technologies -->
 
@@ -26,7 +26,7 @@ $~$
   <a href="https://www.arduino.cc"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
 </p>
 
-$~$
+<br>
 
 <!-- - [imaginefun.net developer](https://imaginefun.net)
 - [CPP UAV Laboratory]()
@@ -66,7 +66,14 @@ Progress:
 | ![img](https://github-readme-stats.vercel.app/api?username=raymond-exe&hide=stars&count_private=true&show_icons=true&theme=darcula) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-exe&layout=compact&count_private=true&theme=darcula) |
 | - | - |
 
-$~$
+<br>
+
+
+| Some neat websites to check out if you're bored: | [Just for Fun. No, Really.](https://justforfunnoreally.dev) | [Google Graveyard](https://killedbygoogle.com) | [FizzBuzz ***Enterprise***](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+| --- | --- | --- | --- |
+###### **I have no relation to any of these sites, I just think they're cool.*
+
+<br>
 
 ---
 
