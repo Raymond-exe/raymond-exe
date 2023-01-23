@@ -5,7 +5,7 @@
 <br>
 
 <!-- ## Programming Languages -->
-<p align="center">Some languages I have experience in are:</p>
+<h3 align="center">Some languages I have experience in are:</h3>
 <p align="center">
   <a href="https://github.com/Raymond-exe?tab=repositories&language=java"><img alt="Java" src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="https://cplusplus.com"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
@@ -18,7 +18,7 @@
 
 <!-- ## Technologies -->
 
-<p align="center">Software (& hardware) most often found in my projects:</p>
+<h3 align="center">Software (& hardware) most often found in my projects:</h3>
 <p align="center">
   <a href="https://www.blender.org"><img alt="Blender 3D" src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white"></a>
   <a href="https://nodejs.org"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
