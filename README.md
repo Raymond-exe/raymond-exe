@@ -22,6 +22,7 @@
 <p align="center">
   <a href="https://www.blender.org"><img alt="Blender 3D" src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white"></a>
   <a href="https://nodejs.org"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://threejs.org"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=three.js&logoColor=black"></a>
   <a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"></a>
   <a href="https://www.arduino.cc"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
 </p>
@@ -68,9 +69,10 @@ Progress:
 
 <br>
 
+<h3 align="center">Some neat websites to check out if you're bored:</h3>
 
-| Some neat websites to check out if you're bored: | [Just for Fun. No, Really.](https://justforfunnoreally.dev) | [Google Graveyard](https://killedbygoogle.com) | [FizzBuzz ***Enterprise***](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-| --- | --- | --- | --- |
+| [Just for Fun. No, Really.](https://justforfunnoreally.dev) | [Google Graveyard](https://killedbygoogle.com) | [FizzBuzz ***Enterprise***](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) |
+| --- | --- | --- |
 ###### **I have no relation to any of these sites, I just think they're cool.*
 
 <br>
