@@ -63,17 +63,21 @@ Progress:
   <img alt="GitHub Streaks" src="https://streak-stats.demolab.com/?user=Raymond-exe&theme=darcula">
 </p>
 
+<center>
+
 <!--- Stats & Top Languages -->
 | ![img](https://github-readme-stats.vercel.app/api?username=raymond-exe&hide=stars&count_private=true&show_icons=true&theme=darcula) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-exe&layout=compact&count_private=true&theme=darcula) |
 | - | - |
 
 <br>
 
-<h3 align="center">Some neat websites to check out if you're bored:</h3>
+### Some neat websites to check out if you're bored:
 
 | [Just for Fun. No, Really.](https://justforfunnoreally.dev) | [Google Graveyard](https://killedbygoogle.com) | [FizzBuzz ***Enterprise***](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) | [A 12ft ladder for 10ft paywalls](https://12ft.io) | [more>>](https://github.com/stars/Raymond-exe/lists/other-cool-projects)
 | --- | --- | --- | --- | --- |
+
 ###### **I have no relation to any of these sites, I just think they're really cool.*
+</center>
 
 <br>
 
