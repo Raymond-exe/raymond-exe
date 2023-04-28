@@ -73,7 +73,7 @@ Progress:
 
 <h3 align="center">Some neat websites to check out if you're bored:</h3>
 
-| [Just for Fun. No, Really.](https://justforfunnoreally.dev) | [Google Graveyard](https://killedbygoogle.com) | [FizzBuzz ***Enterprise***](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) | [A 12ft ladder for 10ft paywalls](https://12ft.io) | [more>>](https://github.com/stars/Raymond-exe/lists/other-cool-projects)
+| [Just for Fun. No, Really.](https://justforfunnoreally.dev) | [Google Graveyard](https://killedbygoogle.com) | [Uwuifier](https://github.com/Schotsl/Uwuifier) | [A 12ft ladder for 10ft paywalls](https://12ft.io) | [more>>](https://github.com/stars/Raymond-exe/lists/other-cool-projects)
 | --- | --- | --- | --- | --- |
 
 ###### **I have no relation to any of these sites, I just think they're really cool.*
