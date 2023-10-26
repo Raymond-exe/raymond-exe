@@ -66,10 +66,8 @@ Progress:
 <center>
 
 <!--- Stats & Top Languages -->
-| ![img](https://github-readme-stats.vercel.app/api?username=raymond-exe&hide=stars&count_private=true&show_icons=true&theme=darcula) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-exe&layout=compact&count_private=true&theme=darcula) |
-| - | - |
-
-<br>
+<!-- | ![img](https://github-readme-stats.vercel.app/api?username=raymond-exe&hide=stars&count_private=true&show_icons=true&theme=darcula) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=raymond-exe&layout=compact&count_private=true&theme=darcula) |
+| - | - | <br> -->
 
 <h3 align="center">Some neat websites to check out if you're bored:</h3>
 
