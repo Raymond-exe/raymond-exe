@@ -1,6 +1,6 @@
-<h1 align = "center"><b>🍜 Raymond-exe</b></h1>
+<h1 align = "center"><b>🍜 // Raymond-exe</b></h1>
 
-<p align="center">👋 <code>Hey there, my name is Raymond! I'm a Computer Engineering undergrad student in California, who loves learning new skills and sharing knowledge with others.</code><br><br><em>My current project is <a href='https://github.com/Raymond-exe/DiscordSpecBot-ts'>a discord bot that can determine if you can run any given game</a>!</em></p>
+<p align="center">👋 Hey there, my name is Raymond! I'm a Computer Engineering undergrad student in California, who loves learning new skills and sharing knowledge with others.<br><br><em>My most recent project is <a href='https://github.com/Raymond-exe/Conway.v'>a Verilog implementation of Conway's Game of Life</a> on the Nexys A7!</em></p>
 
 <br>
 
